@@ -22,4 +22,5 @@ For the boundary conditions for k and omega I used the recomendations from [here
 All of the values are very close to the experimental values and thus I conclude that the simulations are accurate.
 
 
-![DragCoefficientGraph(3)](https://user-images.githubusercontent.com/84512701/217218334-627b1b47-e63c-4b17-9239-1a6011ea22c1.png)
+
+![DragCoefficientGraph(5)](https://user-images.githubusercontent.com/84512701/217218753-86c105d6-0974-4440-b0fe-dc1fae86935c.png)
